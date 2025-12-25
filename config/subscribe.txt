@@ -8,7 +8,6 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 http://wx.thego.cn/df.txt
 http://wx.thego.cn/backup.m3u
 https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
@@ -20,10 +19,6 @@ https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.t
 https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt
 https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
-https://www.cloudplains.cn/result.txt
-http://49.0.205.239:8866/Sub?type=txt
-https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u
 https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/%E5%85%A8%E5%9B%BD.txt
 https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.m3u
