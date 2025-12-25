@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-25 06:57:43,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-12-25 18:58:17,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -578,9 +578,11 @@ CETV-4,https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://hk.188766.xyz/?migutoken=08d282292aec10b8fb4e1a62259e481a&id=gd_gdty&type=sz
 广东体育,https://hk.188766.xyz/?migutoken=c4c92b2787b08ed71b5769ff6000e54e&id=gd_gdty&type=sz
+广东体育,https://hk.188766.xyz/?migutoken=6fd27d25642be627ff15428eb4d986da&id=gd_gdty&type=sz
 广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
 广东新闻,https://hk.188766.xyz/?migutoken=ce8bad3d1344fe1613f8fb947d6ae82b&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=a50fbb8a4696e040043f62cc0985209a&id=gd_gdxw&type=sz
+广东新闻,https://hk.188766.xyz/?migutoken=51fd9bd7a38782a35eddf1e22fe93541&id=gd_gdxw&type=sz
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
@@ -593,6 +595,7 @@ CETV-4,https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/
 广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250926080055fa93bd0ad6d14f29927ad1d172ea6a36&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20250926080055&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20250926080055&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b2349e3ce1c0ce5e5e7d3560bcfeae97&ddCalcu=7b92ee32a48e90fec3bc0e615c30dc7ee55e
 广东民生,https://hk.188766.xyz/?migutoken=56d69a03a6e45b85fffeaaf107c10f0f&id=gd_gdms&type=sz
 广东民生,https://hk.188766.xyz/?migutoken=e1713a5831517f327e2305eb84dc53f7&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=3bf914bec43862820a1372be365260c4&id=gd_gdms&type=sz
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 大湾区卫视,http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 大湾区卫视,http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=20250919080133f37939935a714781ad404daf0685f925&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20250919080133&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.88&SecurityKey=20250919080133&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e0eb7c3208c3c4d76e7990c19dbaa3b9&ddCalcu=9eb0e3e1ab8a70bcd39210c80c939c74ed67
@@ -774,6 +777,7 @@ CETV-4,https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/
 上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=7c61765857deba36348b33b70960be142ad01112a576887cba46c30e7069797b60d888f8f8dde583e0fd4fc58620a1fe2e530a64d73661591405b25881e40fcc2c1fe608d3cc0e259c8c00d297
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
 上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海第一财经,https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=上海第一财经
 上海第一财经,https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=上海第一财经
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
@@ -1545,6 +1549,7 @@ CCTV-5+,https://jzb.wwkejishe.top/?id=583
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://hk.188766.xyz/?migutoken=08d282292aec10b8fb4e1a62259e481a&id=gd_gdty&type=sz
 广东体育,https://hk.188766.xyz/?migutoken=c4c92b2787b08ed71b5769ff6000e54e&id=gd_gdty&type=sz
+广东体育,https://hk.188766.xyz/?migutoken=6fd27d25642be627ff15428eb4d986da&id=gd_gdty&type=sz
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
