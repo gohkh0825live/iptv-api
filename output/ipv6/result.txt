@@ -1,60 +1,248 @@
 🕘️更新时间,#genre#
-2025-12-27 18:18:59,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+2025-12-27 21:43:45,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
 
 央视,#genre#
-CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
+CCTV-1,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV1综合
+CCTV-1,https://py.doube.eu.org/ysp/2024078201/600001859
+CCTV-2,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024075401&livepid=600001800&defn=fhd
+CCTV-2,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV2财经
+CCTV-2,https://py.doube.eu.org/ysp/2024075401/600001800
+CCTV-3,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024068501&livepid=600001801&defn=fhd
+CCTV-3,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV3综艺
+CCTV-3,https://py.doube.eu.org/ysp/2024068501/600001801
+CCTV-3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+CCTV-4,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078301&livepid=600001814&defn=fhd
+CCTV-4,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV4中文国际
 CCTV-4,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=b48a42af82ed6a7a3579a031f9e02566
-CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+CCTV-4,https://py.doube.eu.org/ysp/2024078301/600001814
+CCTV-5,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078401&livepid=600001818&defn=fhd
+CCTV-5,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV5体育
+CCTV-5,https://py.doube.eu.org/ysp/2024078401/600001818
+CCTV-5+,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078001&livepid=600001817&defn=fhd
+CCTV-5+,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV5+体育赛事
+CCTV-5+,https://py.doube.eu.org/ysp/2024078001/600001817
+CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+CCTV-6,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2013693901&livepid=600108442&defn=fhd
+CCTV-6,https://py.doube.eu.org/ysp/2013693901/600108442
+CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+CCTV-7,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024072001&livepid=600004092&defn=fhd
+CCTV-7,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV7国防军事
+CCTV-7,https://py.doube.eu.org/ysp/2024072001/600004092
+CCTV-8,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078501&livepid=600001803&defn=fhd
+CCTV-8,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV8电视剧
+CCTV-8,https://py.doube.eu.org/ysp/2024078501/600001803
+CCTV-9,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078601&livepid=600004078&defn=fhd
+CCTV-9,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV9纪录
+CCTV-9,https://py.doube.eu.org/ysp/2024078601/600004078
+CCTV-10,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078701&livepid=600001805&defn=fhd
+CCTV-10,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV10科教
+CCTV-10,https://py.doube.eu.org/ysp/2024078701/600001805
+CCTV-11,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248701&livepid=600001806&defn=fhd
+CCTV-11,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV11戏曲
+CCTV-11,https://py.doube.eu.org/ysp/2027248701/600001806
+CCTV-12,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248801&livepid=600001807&defn=fhd
+CCTV-12,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV12社会与法
+CCTV-12,https://py.doube.eu.org/ysp/2027248801/600001807
+CCTV-13,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024079001&livepid=600001811&defn=fhd
+CCTV-13,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV13新闻
+CCTV-13,https://py.doube.eu.org/ysp/2024079001/600001811
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV-14,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248901&livepid=600001809&defn=fhd
+CCTV-14,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV14少儿
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV-14,https://py.doube.eu.org/ysp/2027248901/600001809
+CCTV-15,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249001&livepid=600001815&defn=fhd
+CCTV-15,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV15音乐
+CCTV-15,https://py.doube.eu.org/ysp/2027249001/600001815
+CCTV-16,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249101&livepid=600098637&defn=fhd
+CCTV-16,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249301&livepid=600099502&defn=hdr
+CCTV-16,https://py.doube.eu.org/ysp/2027249101/600098637
+CCTV-16,https://py.doube.eu.org/ysp/2027249301/600099502
+CCTV-17,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249401&livepid=600001810&defn=fhd
+CCTV-17,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV17农业农村
+CCTV-17,https://py.doube.eu.org/ysp/2027249401/600001810
+CETV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2022823801&livepid=600171827&defn=fhd
+CETV-1,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CETV1
+CETV-2,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CETV2
+CETV-4,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CETV4
 
 卫视,#genre#
+广东卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024060903&livepid=600002485&defn=fhd
+广东卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=广东卫视
+广东卫视,https://py.doube.eu.org/ysp/2024060903/600002485
+浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054703&livepid=600002520&defn=fhd
+浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1766838622-jj475xnpjt6tt1yic9xk3cgwd1donbmr-0-1eb9a28e254ad9e1ff001fe61943927b
+浙江卫视,https://py.doube.eu.org/ysp/2024054703/600002520
+湖南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054803&livepid=600002475&defn=fhd
+湖南卫视,https://py.doube.eu.org/ysp/2024054803/600002475
+北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024052703&livepid=600002309&defn=fhd
+北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
+北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1766838606&sign=1a2a62df4f21486e4cb4fbde1fa0a8cb
+北京卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=北京卫视
+北京卫视,https://py.doube.eu.org/ysp/2024052703/600002309
+湖北卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171203&livepid=600002508&defn=fhd
+湖北卫视,https://py.doube.eu.org/ysp/2024171203/600002508
+黑龙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061003&livepid=600002498&defn=fhd
+黑龙江卫视,{HEILONGJIANGTV}
+黑龙江卫视,https://py.doube.eu.org/ysp/2024061003/600002498
+安徽卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171403&livepid=600002532&defn=fhd
+安徽卫视,https://py.doube.eu.org/ysp/2024171403/600002532
+重庆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061103&livepid=600002531&defn=fhd
+重庆卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=重庆卫视
+重庆卫视,https://py.doube.eu.org/ysp/2024061103/600002531
+东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054503&livepid=600002483&defn=fhd
+东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dfws
+东方卫视,{DONGFANGTV}
+东方卫视,https://py.doube.eu.org/ysp/2024054503/600002483
+东南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061503&livepid=600002484&defn=fhd
+东南卫视,{DONGNANTV}
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+甘肃卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561703&livepid=600190408&defn=fhd
+甘肃卫视,{GANSUTV}
+甘肃卫视,https://py.doube.eu.org/ysp/2025561703/600190408
+广西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024060703&livepid=600002509&defn=fhd
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1766837420&k=0fcd8a55500958a428d07ef1c4de8390
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1766833664&k=6d206cd26bc74e8edb87048e3cdfde92
+广西卫视,https://py.doube.eu.org/ysp/2024060703/600002509
+贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061603&livepid=600002490&defn=fhd
+贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch01
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=c7f323790d9cb77b847af39c63f3cca4&txTime=694FCCAC
+贵州卫视,https://py.doube.eu.org/ysp/2024061603/600002490
+海南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024055603&livepid=600002506&defn=fhd
+海南卫视,https://livelyws.chinamcache.com/live/zb04.m3u8
+海南卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=海南卫视
+海南卫视,https://py.doube.eu.org/ysp/2024055603/600002506
+河北卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171503&livepid=600002493&defn=fhd
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1766845820&k=3e23c4b1bca8bf89a8030d6f8d17cda0
+河北卫视,https://py.doube.eu.org/ysp/2024171503/600002493
+河南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024059703&livepid=600002525&defn=fhd
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1e9673bd00cbf8802c3b6130c7f19949&wsTime=1766853005&wsSession=7f2e47527d28d2113317739c-176683860607884&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=河南卫视
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c257f8f68421746b8964f86c2f60f9f3&wsTime=1766844045
+河南卫视,https://py.doube.eu.org/ysp/2024059703/600002525
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=09e3a231af020299593e170dcc45121b&wsTime=1766844605&wsSession=7f2e47527d28d2113317739c-176683020615044&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+吉林卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561503&livepid=600190405&defn=fhd
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=6c0e966f23f84b771a8151893760155a&txTime=695009A0
+吉林卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=吉林卫视
+吉林卫视,https://py.doube.eu.org/ysp/2025561503/600190405
+江苏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171103&livepid=600002521&defn=fhd
+江苏卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=江苏卫视
+江苏卫视,https://py.doube.eu.org/ysp/2024171103/600002521
+江西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061703&livepid=600002503&defn=fhd
+江西卫视,https://py.doube.eu.org/ysp/2024061703/600002503
+辽宁卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171303&livepid=600002505&defn=fhd
+辽宁卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=辽宁卫视
+辽宁卫视,https://py.doube.eu.org/ysp/2024171303/600002505
+内蒙古卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561203&livepid=600190401&defn=fhd
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=9ea91cb9687546fd96ac20abe977da03
+内蒙古卫视,https://py.doube.eu.org/ysp/2025561203/600190401
+宁夏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025608503&livepid=600190737&defn=fhd
+宁夏卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=宁夏卫视
+宁夏卫视,https://py.doube.eu.org/ysp/2025608503/600190737
+青海卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025559103&livepid=600190406&defn=fhd
+青海卫视,{QINGHAITV}
+青海卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=青海卫视
+青海卫视,https://py.doube.eu.org/ysp/2025559103/600190406
+山东卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171603&livepid=600002513&defn=fhd
+山东卫视,https://py.doube.eu.org/ysp/2024171603/600002513
+山西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025560803&livepid=600190407&defn=fhd
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sq8R0W.m3u8
+山西卫视,https://py.doube.eu.org/ysp/2025560803/600190407
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+陕西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561103&livepid=600190400&defn=fhd
+陕西卫视,http://stream.snrtv.com/sxbc-star-fpBK45.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+陕西卫视,https://py.doube.eu.org/ysp/2025561103/600190400
+四川卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061403&livepid=600002516&defn=fhd
+四川卫视,https://py.doube.eu.org/ysp/2024061403/600002516
+深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061303&livepid=600002481&defn=fhd
+深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
+深圳卫视,https://py.doube.eu.org/ysp/2024061303/600002481
+三沙卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=三沙卫视
+天津卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927003&livepid=600152137&defn=fhd
+天津卫视,https://py.doube.eu.org/ysp/2019927003/600152137
+西藏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025558003&livepid=600190403&defn=fhd
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=70731eb8b085c8bf82b25ad2f7912f50&time=694fd14c
+西藏卫视,https://py.doube.eu.org/ysp/2025558003/600190403
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=f8ed768d057a18e7a78b57705107883b&time=694fb07a
+新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927403&livepid=600152138&defn=fhd
+新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
+新疆卫视,{XINJIANGTV}
+新疆卫视,https://py.doube.eu.org/ysp/2019927403/600152138
+云南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561303&livepid=600190402&defn=fhd
+云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
+云南卫视,https://py.doube.eu.org/ysp/2025561303/600190402
 
 广东,#genre#
 广东珠江,http://r.jdshipin.com/sE5vO
 广东体育,http://r.jdshipin.com/LiYdg
+广东卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024060903&livepid=600002485&defn=fhd
+广东卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=广东卫视
+大湾区卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=大湾区卫视
+广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
 广州综合,http://r.jdshipin.com/iR6Gq
-广州综合,http://r.jdshipin.com/snhya
+深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061303&livepid=600002481&defn=fhd
+深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
 
 浙江,#genre#
+浙江钱江都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=02
+浙江经济生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=03
+浙江新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=07
+浙江少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=08
+之江纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=12
+浙江国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=10
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+浙江民生休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=06
+浙江教科影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=04
 
 北京,#genre#
+北京卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
+北京新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
+北京生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
+北京财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
 
 上海,#genre#
+上海新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xwzh
+上海新闻综合,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=上海新闻综合
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+上海第一财经,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=上海第一财经
 上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ds
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
+第一财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
 
 重庆,#genre#
 
 江苏,#genre#
+优漫卡通,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=优漫卡通频道
+南通新闻综合,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=南通新闻综合
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
+江苏城市,https://mgtv.ottiptv.cc/migu/626064714.m3u8?migutoken=02cafbc9d94c9e5e26c383c50287313c55f7e68abea08e811428e9b13cd8e46f93919d1a0859b1c76d8e4e78e1f7b8a6f89d71daf38a8275ac7633b59bcdb7cbf189e3152afb4fa80fadf4b134
+江苏影视,https://mgtv.ottiptv.cc/migu/626064697.m3u8?migutoken=6508bc5fae9f621ed6ec72d39eb7f60ab52c4b412a5ee7f5b612640ecccbde1f9584f0a97aebc090cb58f73e9e079ced87b059526a6614b5a9ad5a23ff4863d36adcc1ed699583e058fac3330e
+江苏教育,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=江苏教育
+江苏教育,https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104e880b74d4a395bfa44d7066aecd401da116ee25176f823087e3b4982d4720bd660d81bfff58ed9193c1df26c94a3e4f7a6c10952e5d975a5e4f6244fd9dcc62d
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
+淮安新闻综合,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=淮安新闻综合
+淮安新闻综合,https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=383a4690d772fe16ccec98f2da2e7e0c3b362ae2d9a0fa219e9a7bb76bb96d4ca6392f861efb0a61154552c563897f4660867745735f85e310ec9fb52d7fc55cd30da8d55169f8c415c5a69a15
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+溧水新闻综合,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=溧水新闻综合
+连云港新闻综合,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=连云港新闻综合
+镇江新闻综合,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=镇江新闻综合
 
 辽宁,#genre#
 
 湖南,#genre#
+长沙新闻,https://live.mgtv.com/?channelId=269
+长沙政法,https://live.mgtv.com/?channelId=254
 
 湖北,#genre#
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 广西,#genre#
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
@@ -62,6 +250,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 
 天津,#genre#
+天津卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927003&livepid=600152137&defn=fhd
 
 四川,#genre#
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -72,7 +261,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
-荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
+营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 
 陕西,#genre#
 陕西新闻资讯,https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=d4f3f5a8bf93821548ae70c6bd12860956574c27b3b1ef52c88c8e3d72259b1727a6dbf5d6a5de850afac4c7ffe2f2124bb3b558a89906cd32ccc8913f0f22dd74b7a84514b6015bff75903d9c
@@ -80,9 +269,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 陕西体育休闲,https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c
 
 福建,#genre#
+云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 海南,#genre#
@@ -93,8 +283,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
@@ -105,22 +295,22 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 贵州,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
+贵州移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch13
 
 甘肃,#genre#
 
 新疆,#genre#
+新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927403&livepid=600152138&defn=fhd
+新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
+新疆卫视,{XINJIANGTV}
 
 山东,#genre#
+山东教育,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=山东教育
 
 山西,#genre#
 
 安徽,#genre#
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
-黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
-祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
-亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 
 宁夏,#genre#
 
@@ -129,13 +319,12 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 内蒙古,#genre#
 
 云南,#genre#
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 
 青海,#genre#
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
@@ -143,23 +332,22 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 黑龙江,#genre#
 
 港·澳·台,#genre#
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,http://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://cdn6.163189.xyz/163189/fct4k
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840
+翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+翡翠台,https://cdn6.163189.xyz/163189/fct4k
+翡翠台,http://cdn6.163189.xyz/163189/fct4k
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 明珠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=cadf460aacc566024c43c7c43091734c
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
 纬来育乐,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=b42811cf86d52427b10f21ae97d5693c
@@ -170,19 +358,38 @@ Viutv,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=4f0dd8b20a195bdf
 东森电影,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11
 
 电影频道,#genre#
+CHC家庭影院,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC家庭影院
+CHC动作电影,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC动作电影
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
-经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+星空卫视,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat1&id=19
 
 体育,#genre#
-五星体育,http://cdn3.163189.xyz/163189/wxty
+CCTV-5,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078401&livepid=600001818&defn=fhd
+CCTV-5,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV5体育
+CCTV-5+,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078001&livepid=600001817&defn=fhd
+CCTV-5+,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV5+体育赛事
+五星体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+风云足球,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026966203&livepid=600099636&defn=fhd
 
 动画,#genre#
+卡酷动画,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
+优漫卡通,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=优漫卡通频道
+浙江少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=08
+七龙珠,https://live.ottiptv.cc/huya/11601966
+火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
+中华小当家,https://live.metshop.top/huya/11342413
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
 音乐,#genre#
+CCTV-15,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249001&livepid=600001815&defn=fhd
+CCTV-15,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV15音乐
+风云音乐,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874503&livepid=600099660&defn=fhd
